@@ -21,7 +21,6 @@ public class DetallePedido {
 	
 	private Integer cantidad;
 	
-	
 
 	public Long getNumeroTicket() {
 		return numeroTicket;

@@ -16,7 +16,6 @@ public class PedidoResponseRest extends ResponseRest {
 		this.pedidoResponse = pedidoResponse;
 	}
 	
-	
 
 
 }

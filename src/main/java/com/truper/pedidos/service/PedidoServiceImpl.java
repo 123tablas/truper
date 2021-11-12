@@ -88,6 +88,7 @@ public class PedidoServiceImpl implements IPedido {
 	
 	
 	
+	
 	@Override
 	@Transactional
 	public ResponseEntity<PedidoResponseRest> pedidoPorId(Long id) {

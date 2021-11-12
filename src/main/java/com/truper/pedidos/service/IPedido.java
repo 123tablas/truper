@@ -15,6 +15,5 @@ public interface IPedido {
 	public ResponseEntity<PedidoResponseRest> pedidoPorId(Long id);
 	
 	
-	
 
 }
